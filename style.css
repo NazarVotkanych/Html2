@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+
+}
+body {
+    border: 10px solid orange;
+    background: aqua;
+}
+.target {
+    border: 8px solid rebeccapurple;
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: justify;
+}
+h2 {
+    text-align: center;
+}
+.img {
+    margin: 15px;
+    width: 150px;
+    height: 150px;
+}
+.list {
+    border: 6px solid yellow;
+}
+.pad {
+    padding: 10px;
+}
+.language {
+    width: 300px;
+    min-height: 400px;
+    box-sizing: border-box;
+    }
+.language img {
+    display: block;
+    width: 400px;
+
+
+
+}
